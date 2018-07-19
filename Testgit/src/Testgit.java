@@ -4,7 +4,7 @@ public class Testgit {
 
     // 2
     // branch1
-
+int a =2;
   }
 
 }
